@@ -8,7 +8,7 @@ Project aims to create a Weather App.
 
 ### Visualization of the Website
 
-![image](https://github.com/Sekunev/Stock-App/blob/main/src/assets/AnimationProject.gif)
+![image](https://github.com/Sekunev/Weather_App_JQUER/blob/main/AnimationProject.gif)
 
 ## Project Skeleton
 
