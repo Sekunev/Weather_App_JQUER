@@ -1,6 +1,6 @@
 # Weather app-jQuery
 
-### Check The Live Website ➡️ [Live Website](https://sekunev-stock-app.netlify.app/)
+### Check The Live Website ➡️ [Live Website](https://sekunev-weatherapp-jquery.netlify.app/)
 
 ## Description
 
